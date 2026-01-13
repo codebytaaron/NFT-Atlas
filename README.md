@@ -1,4 +1,3 @@
-# NFT-Atlas
 # OpenSea NFT Agent (AI Workflow)
 
 An AI-powered agent workflow that retrieves and analyzes real-time NFT data from OpenSea using structured API calls.
